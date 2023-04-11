@@ -1,2 +1,3 @@
 # Ai_ml_projects
-ai ml projects
+
+Artificial Intelligence and Machine learning project 
